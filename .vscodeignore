@@ -1,13 +1,4 @@
-.gitignore
-.github
-.vscode
 
-browser
-coverage
-out
-test
-src
-node_modules
 
 temp
 
